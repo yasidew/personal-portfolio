@@ -67,7 +67,7 @@ const Banner = () => {
                   <p>Unlocking Creativity, One Line of Code at a Time</p>
                   <button
                     onClick={() =>
-                      (window.location.href = "URL to LinkedIn profile")
+                      (window.location.href = "https://www.linkedin.com/in/yasitha-dewmin/")
                     }
                   >
                     Let's connect <ArrowRightCircle size={25} />
