@@ -14,7 +14,7 @@ const Footer = () => {
           </Col>
           <Col sm={7} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="URL">
+              <a href="https://www.linkedin.com/in/yasitha-dewmin/">
                 <img src={navIcon1} />
               </a>
               <a href="https://www.facebook.com/">

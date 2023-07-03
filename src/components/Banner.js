@@ -61,10 +61,10 @@ const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {`Hi I'm TheCodingTrio, I'm a `}
+                    {`Hi I'm a Web Developer... `}
                     <span className="wrap">{text}</span>
                   </h1>
-                  <p>Tagline</p>
+                  <p>Unlocking Creativity, One Line of Code at a Time</p>
                   <button
                     onClick={() =>
                       (window.location.href = "URL to LinkedIn profile")
