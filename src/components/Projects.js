@@ -1,6 +1,8 @@
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/project-img1.jpg";
+import projImg2 from "../assets/img/project-img2.jpg";
+import projImg3 from "../assets/img/project-img3.jpg";
+import projImg4 from "../assets/img/project-img4.png";
+import projImg5 from "../assets/img/project-img5.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import { Container, Row, Col, Nav, Tab } from "react-bootstrap";
 import ProjectCard from "./ProjectCard";
@@ -10,41 +12,41 @@ import TrackVisibility from "react-on-screen";
 const Projects = () => {
   const projects = [
     {
-      title: "Title",
-      description: "Description",
-      imgUrl: projImg3,
-      projectURL: "URL",
-    },
-    {
-      title: "Title",
-      description: "Description",
+      title: "Southern Agro Serve (Pvt) Ltd",
+      description: "Business management system for Southern Agro Serve (Pvt) Ltd",
       imgUrl: projImg1,
-      projectURL: "URL",
+      projectURL: "https://github.com/SLIITITP/ITP_WE_B01_TW_14",
     },
     {
-      title: "Title",
-      description: "Description",
-      imgUrl: projImg1,
-      projectURL: "URL",
-    },
-    {
-      title: "Title",
-      description: "Description",
+      title: "FinTrack",
+      description: "Mobile Application to manage finances and track income and expenses",
       imgUrl: projImg2,
-      projectURL: "URL",
+      projectURL: "https://github.com/yasidew/FinTrack",
     },
     {
-      title: "Title",
-      description: "Description",
+      title: "Online Pet Care System",
+      description: "Web Application to manage pet care services",
       imgUrl: projImg3,
-      projectURL: "URL",
+      projectURL: "https://github.com/yasidew/Online-Pet-Care-System",
     },
     {
+      title: "Online Grocery Ordering System",
+      description: "Web application to seamlessly manage services provided by a grocery store",
+      imgUrl: projImg4,
+      projectURL: "https://github.com/yasidew/OneStop",
+    },
+    {
+      title: "TheCodingTrio",
+      description: "We build Pat Projects",
+      imgUrl: projImg5,
+      projectURL: "https://github.com/TheCodingTrio",
+    },
+    /*{
       title: "Title",
       description: "Description",
       imgUrl: projImg1,
       projectURL: "URL",
-    },
+    },*/
   ];
 
   return (
