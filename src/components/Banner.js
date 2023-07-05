@@ -1,6 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
-import logo from "../assets/img/logo.svg";
+import logo from "../assets/img/logo1.png";
 import atom from "../assets/img/atom.png";
 import { useEffect, useState } from "react";
 import "animate.css";
@@ -61,8 +61,8 @@ const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {`Hi I'm a Web Developer... `}
-                    <span className="wrap">{text}</span>
+                    {`Hi I'm Yasitha, I'm a`}
+                    <span className="wrap">{`Web Developer`}</span>
                   </h1>
                   <p>Unlocking Creativity, One Line of Code at a Time</p>
                   <button
