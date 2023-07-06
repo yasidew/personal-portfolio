@@ -62,7 +62,7 @@ const Projects = () => {
                   }
                 >
                   <h2>Projects</h2>
-                  <p>Description</p>
+                  <p>Discover a collection of innovative projects showcasing my expertise in developing custom solutions. From business management systems to mobile apps and web applications, each project embodies creativity and cutting-edge technology</p>
                 </div>
               )}
             </TrackVisibility>
