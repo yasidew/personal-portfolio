@@ -9,7 +9,7 @@ import TrackVisibility from "react-on-screen";
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["Type", "Type", "Type"];
+  const toRotate = ["Web Developer", "UI/UX Designer", "Web Designer"];
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const period = 2000;
@@ -61,7 +61,7 @@ const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {`Hi I'm Yasitha, I'm a`}
+                    {`Hi I'm Yasitha, I'm a `}
                     <span className="wrap">{text}</span>
                   </h1>
                   <p>Unlocking Creativity, One Line of Code at a Time</p>

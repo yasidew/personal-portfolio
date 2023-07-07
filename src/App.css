@@ -101,6 +101,9 @@ nav.navbar {
   z-index: 9999; /*We want the navbar to be always visible*/
   transition: 0.32s ease-in-out; /*This is for the animations*/
 }
+.logocontainer{
+  width: 200px;
+}
 nav.navbar.scrolled {
   padding: 0px 0;
   background-color: #000000 !important;
