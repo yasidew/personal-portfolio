@@ -4,8 +4,8 @@ import Navbar from "react-bootstrap/Navbar";
 import { useState, useEffect } from "react";
 import logo from "../assets/img/ydlogo3.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon2 from "../assets/img/nav-icon5.svg";
+import navIcon3 from "../assets/img/nav-icon4.svg";
 
 const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
@@ -78,19 +78,19 @@ const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="URL">
+              <a href="https://www.linkedin.com/in/yasitha-dewmin/">
                 <img src={navIcon1} alt="" />
               </a>
-              <a href="https://www.facebook.com/">
+              <a href="https://twitter.com/Yas_de_">
                 <img src={navIcon2} alt="" />
               </a>
-              <a href="https://www.instagram.com/">
+              <a href="https://github.com/yasidew">
                 <img src={navIcon3} alt="" />
               </a>
             </div>
             <button
               className="vvd"
-              onClick={() => (window.location.href = "URL")}
+              onClick={() => (window.location.href = "https://www.linkedin.com/in/yasitha-dewmin/")}
             >
               <span>Let's connect</span>
             </button>

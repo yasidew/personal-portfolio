@@ -1,8 +1,8 @@
 import { Col, Container, Row } from "react-bootstrap";
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon2 from "../assets/img/nav-icon5.svg";
+import navIcon3 from "../assets/img/nav-icon4.svg";
 
 const Footer = () => {
   return (
@@ -17,10 +17,10 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/yasitha-dewmin/">
                 <img src={navIcon1} />
               </a>
-              <a href="https://www.facebook.com/">
+              <a href="https://twitter.com/Yas_de_">
                 <img src={navIcon2} />
               </a>
-              <a href="https://www.instagram.com/">
+              <a href="https://github.com/yasidew">
                 <img src={navIcon3} />
               </a>
             </div>
