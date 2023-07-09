@@ -102,7 +102,7 @@ nav.navbar {
   transition: 0.32s ease-in-out; /*This is for the animations*/
 }
 .logocontainer{
-  width: 200px;
+  width: 100px;
 }
 nav.navbar.scrolled {
   padding: 0px 0;

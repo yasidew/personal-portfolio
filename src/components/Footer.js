@@ -10,10 +10,10 @@ const Footer = () => {
       <Container>
         <Row className="footer-row align-items-end">
           <Col sm={5}>
-            <img src={logo} alt="Logo" />
+            
           </Col>
           <Col sm={7} className="text-center text-sm-end">
-            <div className="social-icon">
+            <div className="social-icon mt-4">
               <a href="https://www.linkedin.com/in/yasitha-dewmin/">
                 <img src={navIcon1} />
               </a>
