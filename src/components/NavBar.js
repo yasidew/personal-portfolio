@@ -75,6 +75,15 @@ const NavBar = () => {
             >
               Projects
             </Nav.Link>
+            <Nav.Link
+              href="https://medium.com/@ydewmin"
+              className={
+                activeLink === "Blogs" ? "active navbar-link" : "navbar-link"
+              }
+              onClick={() => onUpdateActiveLink("Blogs")}
+            >
+              Blogs
+            </Nav.Link>
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
