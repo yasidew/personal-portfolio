@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.2017dca4.css",
-    "main.js": "/personal-portfolio/static/js/main.8e9c23a8.js",
+    "main.js": "/personal-portfolio/static/js/main.cb60702f.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/banner1.jpg": "/personal-portfolio/static/media/banner1.dc3f2735ac8195fb0d0a.jpg",
     "static/media/project-img5.jpg": "/personal-portfolio/static/media/project-img5.830851674489f1fb9abd.jpg",
@@ -33,6 +33,7 @@
     "static/media/kotlin-icon.svg": "/personal-portfolio/static/media/kotlin-icon.8b9208ec666dd19f090ad9062d2261db.svg",
     "static/media/sql-icon.svg": "/personal-portfolio/static/media/sql-icon.9455f2f2bd26c88b5bb39d584a085d3d.svg",
     "static/media/javascript-programming-language-icon.svg": "/personal-portfolio/static/media/javascript-programming-language-icon.43e744a279a2adb2d549e76402f43593.svg",
+    "static/media/oracle-icon.svg": "/personal-portfolio/static/media/oracle-icon.05f0df60b8a4524a77c56c347c91ab42.svg",
     "static/media/react-icon.svg": "/personal-portfolio/static/media/react-icon.eeb727723bcf431a4fb13c63d9978343.svg",
     "static/media/nav-icon4.svg": "/personal-portfolio/static/media/nav-icon4.3626f451caf3a607458e2d5b9cd7063a.svg",
     "static/media/spring-boot-icon.svg": "/personal-portfolio/static/media/spring-boot-icon.2fd73063defc8947eba61b0fd30f2eb0.svg",
@@ -42,11 +43,11 @@
     "static/media/css-icon.svg": "/personal-portfolio/static/media/css-icon.dafef52c19cbee985858c7fd386290e4.svg",
     "static/media/html-icon.svg": "/personal-portfolio/static/media/html-icon.560a32f4d7ac2901fe14cecb2ce1594d.svg",
     "main.2017dca4.css.map": "/personal-portfolio/static/css/main.2017dca4.css.map",
-    "main.8e9c23a8.js.map": "/personal-portfolio/static/js/main.8e9c23a8.js.map",
+    "main.cb60702f.js.map": "/personal-portfolio/static/js/main.cb60702f.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2017dca4.css",
-    "static/js/main.8e9c23a8.js"
+    "static/js/main.cb60702f.js"
   ]
 }
