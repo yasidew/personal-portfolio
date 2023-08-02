@@ -16,6 +16,8 @@ import meter12 from "../assets/img/visual-studio-code-icon.svg";
 import meter13 from "../assets/img/adobe-xd-icon.svg";
 import meter14 from "../assets/img/intellij-idea-icon.svg";
 import meter15 from "../assets/img/bootstrap-4-icon.svg";
+import meter16 from "../assets/img/oracle-icon.svg";
+
 
 import colorSharp from "../assets/img/color-sharp.png";
 
@@ -77,6 +79,10 @@ const Skills = () => {
                   <h5>React</h5>
                 </div>
                 <div className="item">
+                  <img src={meter6} alt="" />
+                  <h5>React Native</h5>
+                </div>
+                <div className="item">
                   <img src={meter7} alt="" />
                   <h5>SQL</h5>
                 </div>
@@ -89,13 +95,14 @@ const Skills = () => {
                   <h5>MongoDB</h5>
                 </div>
                 <div className="item">
+                  <img src={meter16} alt="" />
+                  <h5>Oracle</h5>
+                </div>
+                <div className="item">
                   <img src={meter10} alt="" />
                   <h5>SpringBoot</h5>
                 </div>
-                <div className="item">
-                  <img src={meter11} alt="" />
-                  <h5>Kotlin</h5>
-                </div>
+                
                 <div className="item">
                   <img src={meter12} alt="" />
                   <h5>VS Code</h5>
@@ -111,6 +118,10 @@ const Skills = () => {
                 <div className="item">
                   <img src={meter15} alt="" />
                   <h5>Bootstrap</h5>
+                </div>
+                <div className="item">
+                  <img src={meter11} alt="" />
+                  <h5>Kotlin</h5>
                 </div>
               </Carousel>
               
