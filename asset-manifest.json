@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.2017dca4.css",
-    "main.js": "/personal-portfolio/static/js/main.cb60702f.js",
+    "main.js": "/personal-portfolio/static/js/main.49bb6c55.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/banner1.jpg": "/personal-portfolio/static/media/banner1.dc3f2735ac8195fb0d0a.jpg",
     "static/media/project-img5.jpg": "/personal-portfolio/static/media/project-img5.830851674489f1fb9abd.jpg",
@@ -18,6 +18,7 @@
     "static/media/project-img1.jpg": "/personal-portfolio/static/media/project-img1.d8b3ba867a3b0e8e674d.jpg",
     "static/media/project-img2.jpg": "/personal-portfolio/static/media/project-img2.78638d7cb242d31b9062.jpg",
     "static/media/ydlogo3.png": "/personal-portfolio/static/media/ydlogo3.4e434468a1af2e7840bf.png",
+    "static/media/ecobin lg.png": "/personal-portfolio/static/media/ecobin lg.905118adcb60e2fd23d1.png",
     "static/media/mongodb-icon.svg": "/personal-portfolio/static/media/mongodb-icon.1dc47c60f9d90afc1e171c4529af5966.svg",
     "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -43,11 +44,11 @@
     "static/media/css-icon.svg": "/personal-portfolio/static/media/css-icon.dafef52c19cbee985858c7fd386290e4.svg",
     "static/media/html-icon.svg": "/personal-portfolio/static/media/html-icon.560a32f4d7ac2901fe14cecb2ce1594d.svg",
     "main.2017dca4.css.map": "/personal-portfolio/static/css/main.2017dca4.css.map",
-    "main.cb60702f.js.map": "/personal-portfolio/static/js/main.cb60702f.js.map",
+    "main.49bb6c55.js.map": "/personal-portfolio/static/js/main.49bb6c55.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2017dca4.css",
-    "static/js/main.cb60702f.js"
+    "static/js/main.49bb6c55.js"
   ]
 }
