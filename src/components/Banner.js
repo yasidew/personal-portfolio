@@ -2,6 +2,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import logo from "../assets/img/logo.png";
 import pro2 from "../assets/img/pro2.png";
+import yas from "../assets/img/yas.png"
 import { useEffect, useState } from "react";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -9,7 +10,7 @@ import TrackVisibility from "react-on-screen";
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["Web Developer", "UI/UX Designer", "Web Designer"];
+  const toRotate = ["Full Stack Developer", "Web Developer", "Tech Enthusiast"];
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const period = 2000;

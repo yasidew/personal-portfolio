@@ -17,6 +17,10 @@ import meter13 from "../assets/img/adobe-xd-icon.svg";
 import meter14 from "../assets/img/intellij-idea-icon.svg";
 import meter15 from "../assets/img/bootstrap-4-icon.svg";
 import meter16 from "../assets/img/oracle-icon.svg";
+import postgre from "../assets/img/postgresql-icon.svg"
+import aws from "../assets/img/aws.svg";
+import angular from "../assets/img/angularjs.svg";
+import docker from "../assets/img/docker.svg"
 
 
 import colorSharp from "../assets/img/color-sharp.png";
@@ -75,41 +79,36 @@ const Skills = () => {
                   <h5>JavaScript</h5>
                 </div>
                 <div className="item">
-                  <img src={meter6} alt="" />
-                  <h5>React</h5>
+                  <img src={angular} alt="" />
+                  <h5>Angular</h5>
                 </div>
                 <div className="item">
-                  <img src={meter6} alt="" />
-                  <h5>React Native</h5>
+                  <img src={aws} alt="" />
+                  <h5>AWS</h5>   
+                </div>
+                <div className="item">
+                  <img src={docker} alt="" />
+                  <h5>Docker</h5>
                 </div>
                 <div className="item">
                   <img src={meter7} alt="" />
                   <h5>SQL</h5>
                 </div>
                 <div className="item">
-                  <img src={meter8} alt="" />
-                  <h5>Firebase</h5>
+                  <img src={postgre} alt="" />
+                  <h5>PostgreSQL</h5>
                 </div>
                 <div className="item">
                   <img src={meter9} alt="" />
                   <h5>MongoDB</h5>
                 </div>
                 <div className="item">
-                  <img src={meter16} alt="" />
-                  <h5>Oracle</h5>
-                </div>
-                <div className="item">
                   <img src={meter10} alt="" />
                   <h5>SpringBoot</h5>
                 </div>
-                
                 <div className="item">
                   <img src={meter12} alt="" />
                   <h5>VS Code</h5>
-                </div>
-                <div className="item">
-                  <img src={meter13} alt="" />
-                  <h5>Adobe Xd</h5>
                 </div>
                 <div className="item">
                   <img src={meter14} alt="" />
@@ -118,10 +117,6 @@ const Skills = () => {
                 <div className="item">
                   <img src={meter15} alt="" />
                   <h5>Bootstrap</h5>
-                </div>
-                <div className="item">
-                  <img src={meter11} alt="" />
-                  <h5>Kotlin</h5>
                 </div>
               </Carousel>
               
